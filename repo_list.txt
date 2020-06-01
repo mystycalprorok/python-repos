@@ -1,2 +1,9 @@
 ytdl-org/youtube-dl
 nvbn/thefuck
+pallets/flask
+django/django
+keras-team/keras
+jakubroztocil/httpie
+ansible/ansible
+psf/requests
+scikit-learn/scikit-learn
